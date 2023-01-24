@@ -1,0 +1,769 @@
+{
+  "104.255.104.0/22": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "104.255.104.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "104.255.105.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "104.255.106.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "104.255.107.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.240.0/22": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.240.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.241.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.242.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.243.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.244.0/22": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.244.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.245.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.246.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "192.81.247.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  },
+  "198.133.210.0/24": {
+    "2022-10-02T00:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T02:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T04:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T06:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T08:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T10:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T12:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T14:00:00-03:00": null,
+    "2022-10-02T16:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T18:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T20:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    },
+    "2022-10-02T22:00:00-03:00": {
+      "usesPrepend": false,
+      "usesPrependFromOriginator": false
+    }
+  }
+}
